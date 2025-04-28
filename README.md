@@ -7,11 +7,19 @@
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/shahwajahmad/Excel-Sales-Analytics-/blob/main/market%20performance%20vs%20target%20PDF.pdf)_
 
+    **3.** Identify and rank them based on quantity sold _[top 10 productst](https://github.com/shahwajahmad/Excel-Sales-Analytics-/blob/main/Top%2010%20Products%20PDF.pdf)_ 
+
+    **4.** Analyze _[division-level performance](https://github.com/shahwajahmad/Excel-Sales-Analytics-/blob/main/Division%20level%20report%20PDF.pdf)_ to understand business unit strengths
+
+    **5.** Highlight _[top 5 countries](https://github.com/shahwajahmad/Excel-Sales-Analytics-/blob/main/Top%205%20Countries%20in%202021%20PDF.pdf)_ by sales performance
+
+    **6.** Explore opportunities through _[new product](https://github.com/shahwajahmad/Excel-Sales-Analytics-/blob/main/new%20products%20in%202021%20PDF.pdf)_ expansion analysis
+
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, identify potential business expansion opportunities in promising countries, uncover top-performing products and divisions, and support strategic decisions for new product launches.
 
 
 ## Finance Report :
