@@ -7,7 +7,7 @@
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/shahwajahmad/Excel-Sales-Analytics-/blob/main/market%20performance%20vs%20target%20PDF.pdf)_
 
-    **3.** Identify and rank them based on quantity sold _[top 10 productst](https://github.com/shahwajahmad/Excel-Sales-Analytics-/blob/main/Top%2010%20Products%20PDF.pdf)_ 
+    **3.** Identify and rank them based on quantity sold _[top 10 products](https://github.com/shahwajahmad/Excel-Sales-Analytics-/blob/main/Top%2010%20Products%20PDF.pdf)_ 
 
     **4.** Analyze _[division-level performance](https://github.com/shahwajahmad/Excel-Sales-Analytics-/blob/main/Division%20level%20report%20PDF.pdf)_ to understand business unit strengths
 
